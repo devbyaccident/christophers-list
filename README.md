@@ -7,3 +7,4 @@ In the style of [Skippy's List](http://skippyslist.com/list/), feel free to cont
 1. Keep it simple.
 2. No names of people or companies. Keep it anonymous. 
 3. Only things you have participated in or witnessed first-hand.
+4. If you get a laugh, share the list with someone who could use one.
