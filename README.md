@@ -8,3 +8,4 @@ In the style of [Skippy's List](http://skippyslist.com/list/), feel free to cont
 1. No names of people or companies. Keep it anonymous. 
 1. Only things you have participated in or witnessed first-hand.
 1. Try to place your item appropriately in the list so that the worst things (greatest impact, visibility, 'resume generating', etc.) are near the top (entry 1). 
+1. If you get a laugh, share the list with someone who could use one.
