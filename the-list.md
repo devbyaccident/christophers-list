@@ -1,3 +1,3 @@
 1. You must not expose LAN workstations RDP port to the internet directly. Regardless of what port number you use, they will be found, they will be probed, and you will eventually get cryptolocker'd because of a temporary password reset that is too weak, RDP vulnerability, etc.
 1. You should not put a list of the plain-text SQL Admin passwords of your clients on the company sharepoint because you don't like asking the DBA's for support.
-2. You should not tell the client that they will be getting new laptops in 2 weeks when your procurement team can't get them delivered to your asset management team for 3.
+1. You should not tell the client that they will be getting new laptops in 2 weeks when your procurement team can't get them delivered to your asset management team for 3.
