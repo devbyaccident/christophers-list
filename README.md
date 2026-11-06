@@ -16,3 +16,4 @@ In the style of [Skippy's List](http://skippyslist.com/list/), feel free to cont
 1. You should not put a list of the plain-text SQL Admin passwords of your clients on the company sharepoint because you don't like asking the DBA's for support.
 1. You should not have all domain user passwords set to their phone extension (3 digits) so that a manager can get into needed files "just in case" the employee is not at their computer. 
 1. You should not tell the client that they will be getting new laptops in 2 weeks when your procurement team can't get them delivered to your asset management team for 3.
+1. I found out the hard way dont deploy ssl/tls cipher suite config at scale until it's tested on numerous sandbox devices.  I blew up 30 prod 2016 windows servers. 
